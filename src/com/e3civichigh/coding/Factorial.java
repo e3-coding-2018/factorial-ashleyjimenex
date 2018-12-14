@@ -2,7 +2,7 @@ package com.e3civichigh.coding;
 
 public class Factorial
 {
-    public static void main(String[] args)
+            public static void main(String[] args)
     {
         final int NUM_FACTS = 100;
 
@@ -24,7 +24,7 @@ public class Factorial
 
         // TODO 2: Please create a foor loop that counts from 2 up to and including n
 
-        for(int i=2; i<=n; i+=) {
+        for(int i=2; i<=n; i++) {
             result *= i;
         }
 
